@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fara27
-- 👀 I’m interested in PHP and MySQL, Python, Kotlin, Android Development, C++, Arduino, RasphberryPi and Micr Controllers 
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in PHP and MySQL, Python, Kotlin, Android Development. 
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on great programmer who are intrested in a Start-up
 - 📫 How to reach me ...
 
