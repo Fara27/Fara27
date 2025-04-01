@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fara27
+- 👋 Hi, I’m Utomi Faraday Ofuzim
 - 👀 I’m interested in PHP and MySQL, Python, Kotlin, Android Development. 
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate with great programmers who are intrested in a Start-up
